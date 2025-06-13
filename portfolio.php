@@ -67,19 +67,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- gallery -->
 	<div class="wthree_gallery_grids">
   <div class="gallery_grid">
-    <img src="images/property-listing.png" alt="Property Listing" style="width:100%">
     <h4>Property Listing</h4>
     <p>List, view, and manage available rental properties in one place.</p>
   </div>
 
   <div class="gallery_grid">
-    <img src="images/rent-tracking.png" alt="Rent Payment & Tracking" style="width:100%">
     <h4>Rent Payment & Tracking</h4>
     <p>Track rent payments, due dates, and receive instant notifications.</p>
   </div>
 
   <div class="gallery_grid">
-    <img src="images/tenant-portal.png" alt="Tenant Portal" style="width:100%">
     <h4>Tenant Portal</h4>
     <p>Tenants can report issues, view leases, and pay rent online.</p>
   </div>
