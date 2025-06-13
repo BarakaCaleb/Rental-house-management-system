@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <link rel="icon" href="images/icon.png">
-<title>Nyumbani homes</title>
+<title>Qikao homes</title>
 <!-- custom-theme -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -31,7 +31,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="agile_phone_mail">
 					<ul>
 						<li><i class="fa fa-phone" aria-hidden="true"></i>+(254) 123 456 789</li>
-						<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@nyumbanihomes.com">info@nyumbanihomes.com</a></li>
+						<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@nyumbanihomes.com">info@qikao.com</a></li>
 					</ul>
 				</div>
 			</div>
@@ -75,22 +75,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</li>
 							<li>
 								<h3>Our Mission.. </h3>
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
+								<p>To simplify and digitize rental property management by connecting landlords, tenants, and agents through a secure, user-friendly platform.</p>
 								
 							</li>
 							<li>
-								<h3>Lorem ipsum dolor </h3>
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
+								<h3>Our Goals </h3>
+								<p>Enable paperless property leasing and rent payment.</p>
 							
 							</li>
 							<li>
 								<h3>Our Vision... </h3>
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
+								<p>To become Africa’s most trusted and intelligent rental management ecosystem, empowering property owners and tenants with seamless access to housing solutions.
+
+</p>
 								
 							</li>
 							<li>
-								<h3>Lorem ipsum dolor? </h3>
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p> <i style="color: orange;">--find out more</i>
+								<h3>Our Tagline </h3>
+								<p></p>Manage Rentals. Hassle-Free with Qikao<i style="color: orange;">--find out more</i>
 								
 							</li>
 						</ul>

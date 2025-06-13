@@ -10,7 +10,7 @@ error_reporting(E_ALL);
 //database connection variables
 $host= 'localhost';
 $user='root';
-$usrpassword='';
+$usrpassword='Breeze@2025';
 $database='Company';
 
 //optional for sending SMS via sms.textsms.co.ke API
