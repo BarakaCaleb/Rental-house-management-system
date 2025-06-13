@@ -30,7 +30,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="agile_phone_mail">
 					<ul>
 						<li><i class="fa fa-phone" aria-hidden="true"></i>+(254) 002 100 500</li>
-						<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@Companyonline.net">info@example.com</a></li>
+						<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@Companyonline.net">info@qikao.com</a></li>
 					</ul>
 				</div>
 			</div>
@@ -97,7 +97,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- //mail -->
 <!-- map -->
 	<div class="w3l-map">
-		<iframe width="100%" height="300" src="https://maps.google.com/maps?width=100%&amp;height=300&amp;hl=en&amp;q=Relaince%20center%20%2C%20Woodvale%20Grove%2C%20Westlands%20-%20Nairobi%2C%20Kenya+(Company%20Offices)&amp;ie=UTF8&amp;t=&amp;z=15&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+		<iframe src="https://maps.google.com/maps?width=100%&height=300&hl=en&q=General%20Kago%20Road%2C%20Thika%2C%20Kenya&ie=UTF8&t=&z=15&iwloc=B&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 	</div>
 <!-- map -->
 
