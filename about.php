@@ -70,7 +70,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="furniture">
 				<div class="container">
 					<p>
-						
+						Qikao is a smart rental management platform designed to make renting, leasing, and property management seamless for both landlords and tenants. Based in Kenya, we combine technology with simplicity to solve everyday challenges in the real estate space.
+
+Whether you're a property owner looking to manage multiple units, or a tenant searching for a reliable rental experience, Qikao gives you the tools to connect, communicate, and transact with ease.
 					</p>
 				</div>	
 			</div>
