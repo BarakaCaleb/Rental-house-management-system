@@ -42,7 +42,7 @@ CREATE TABLE `admin` (
 
 INSERT INTO `admin` (`id`, `name`, `role`, `email`, `password`, `date`) VALUES
 (5, 'Obed Nyakundi', 'level-0', 'obed@example.com', '$2y$12$EcXNA8UHc53gWrW0suAB2.b028O7ItuHyLqXrQN6j00ax7OHVBF3i', '2021-05-22 10:56:20'),
-(8, 'Ace One', 'level-1', 'ace@nyumbani.com', '$2y$12$CLdOW9clSRIYAnLzicI97.J5VJt6KPVwnSOeR0TT8u/uZCC/mxgoq', '2021-05-24 16:01:01');
+(8, 'Ace One', 'level-1', 'ace@Qikaoni.com', '$2y$12$CLdOW9clSRIYAnLzicI97.J5VJt6KPVwnSOeR0TT8u/uZCC/mxgoq', '2021-05-24 16:01:01');
 
 -- --------------------------------------------------------
 

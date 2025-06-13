@@ -1,7 +1,7 @@
 <?php 
 
     //a page name
-    $pgnm='Nyumbani: New Invoice';
+    $pgnm='Qikaoni: New Invoice';
     $error=' ';
     $timesnap=date('Y-m-d : H:i:s');
 

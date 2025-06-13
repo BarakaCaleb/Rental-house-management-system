@@ -31,7 +31,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="agile_phone_mail">
 					<ul>
 						<li><i class="fa fa-phone" aria-hidden="true"></i>+(254) 123 456 789</li>
-						<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@nyumbanihomes.com">info@qikao.com</a></li>
+						<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@Qikaonihomes.com">info@qikao.com</a></li>
 					</ul>
 				</div>
 			</div>

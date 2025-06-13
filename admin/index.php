@@ -2,7 +2,7 @@
     ob_start();
     require_once "functions/db.php";
     //page name
-    $pgnm='Nyumbani: Dashboard';
+    $pgnm='Qikao: Dashboard';
     $error=' '; //error variable
 
     //require the global file for errors

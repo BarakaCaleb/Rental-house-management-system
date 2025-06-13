@@ -1,5 +1,5 @@
 <?php
-    $pgnm="Nyumbani: View Tenants";
+    $pgnm="Qikaoni: View Tenants";
     $error=' ';
 
     //require the global file for errors
@@ -235,7 +235,7 @@
                                                 <div class="input-group-addon"><i class="fa fa-at"></i></div>
                                                 <input type="email" name="temail" class="form-control" 
                                                     value="'.$row["email"].'" 
-                                                id="temail" placeholder="example@nyumbani.com"> </div>
+                                                id="temail" placeholder="example@Qikaoni.com"> </div>
                                         </div>
 
                                         <div class="form-group">

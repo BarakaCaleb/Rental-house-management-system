@@ -1,5 +1,5 @@
 <!-- /.container-fluid -->
-            <footer class="footer text-center"> <?php echo 2000+date('y');?> &copy; Nyumbani Homes </footer>
+            <footer class="footer text-center"> <?php echo 2000+date('y');?> &copy; Qikaoni Homes </footer>
         </div>
         <!-- /#page-wrapper -->
     </div>

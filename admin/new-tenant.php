@@ -110,7 +110,7 @@
                                 $mysqli ->commit();
 
                                 //send an SMS to the new tenant
-                                $finalmessage="Hello ".$firstName.", You're welcome to Nyumbani Homes. You were admitted to ".$hsname." with rent amount of KES. ".$rentAmount." per month.";
+                                $finalmessage="Hello ".$firstName.", You're welcome to Qikaoni Homes. You were admitted to ".$hsname." with rent amount of KES. ".$rentAmount." per month.";
                                 sendSMS($phone, $finalmessage);
                                 
 
@@ -185,7 +185,7 @@
                                             <label for="temail">Email: </label>
                                             <div class="input-group">
                                                 <div class="input-group-addon"><i class="fa fa-at"></i></div>
-                                                <input type="email" name="temail" class="form-control" id="temail" placeholder="example@nyumbani.com"> </div>
+                                                <input type="email" name="temail" class="form-control" id="temail" placeholder="example@Qikaoni.com"> </div>
                                         </div>
 
                                         <div class="form-group">
