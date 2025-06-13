@@ -1,5 +1,5 @@
 <?php
-    $pgnm="Qikaoni: View Invoices";
+    $pgnm="Qikao: View Invoices";
     $error=' ';
 
     //require the global file for errors

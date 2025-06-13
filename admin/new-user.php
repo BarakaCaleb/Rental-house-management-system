@@ -65,7 +65,7 @@
                                             <label for="uname">User Name</label>
                                             <div class="input-group">
                                                 <div class="input-group-addon"><i class="fa fa-pencil"></i></div>
-                                                <input type="text" name="uname" class="form-control" id="uname" placeholder="e.g Qikaoni Admin One" required=""> </div>
+                                                <input type="text" name="uname" class="form-control" id="uname" placeholder="e.g Qikao Admin One" required=""> </div>
                                         </div>
                                         <div class="form-group">
                                             <label for="exampleInputEmail1">Email address</label>
