@@ -1664,6 +1664,18 @@ h2.typoh2{
 .gallery {
 	padding:5em 0;
 }
+
+.gallery_grid {
+  width: 30%;
+  margin: 1%;
+  float: left;
+  text-align: center;
+}
+.gallery_grid img {
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
 /*-- //gallery --*/
 /*-- about --*/
 .about-wthree {

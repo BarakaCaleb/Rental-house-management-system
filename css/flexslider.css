@@ -23,6 +23,7 @@
 .flexslider .slides img {display: block;}
 .flex-pauseplay span {text-transform: capitalize;}
 
+
 /* Clearfix for the .slides element */
 .slides:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;} 
 html[xmlns] .slides {display: block;} 
@@ -49,7 +50,7 @@ html[xmlns] .slides {display: block;}
 
 
 /* Direction Nav */
-.flex-direction-nav {*height: 0;}
+.flex-direction-nav {height: 0;}
 .flex-direction-nav a {
 	width: 16px;
     height: 16px;
