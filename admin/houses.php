@@ -1,6 +1,6 @@
 <?php
     
-    $pgnm="Nyumbani : View Houses";
+    $pgnm="Qikao : View Houses";
     $error=' ';
 
     //require the global file for errors
