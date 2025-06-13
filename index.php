@@ -69,8 +69,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="flexslider">
 						<ul class="slides">
 							<li>
-								<h3>Lorem ipsum dolor ..?</h3>
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
+								<h3>Who are we ..?</h3>
+								<p>Qikao is a modern rental management platform built for property owners, agents, and tenants in Africa. We are a team of tech-driven innovators passionate about solving real estate challenges through digital solutions. Our platform makes it easy to manage properties, track payments, handle maintenance requests, and connect tenants to quality housing — all in one place.</p>
 								
 							</li>
 							<li>
