@@ -2,7 +2,7 @@
     $timesnap=date('Y-m-d : H:i:s');
     
     if (!isset($pgnm)) {
-        $pgnm="Nyumbani Software";
+        $pgnm="Qikao Software";
     }
 ?>
 <!-- this page has the header and the top nav bar -->

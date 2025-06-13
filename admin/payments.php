@@ -1,5 +1,5 @@
 <?php
-    $pgnm="Nyumbani: View Payments";
+    $pgnm="Qikao: View Payments";
     $error=' ';
 
     //require the global file for errors

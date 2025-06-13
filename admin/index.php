@@ -86,7 +86,7 @@
                 <div class="row bg-title">
                     <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                         <!-- salute the admin -->
-                        <h4 class="page-title"><?php echo 'Hujambo '.$username.',';?></h4> </div>
+                        <h4 class="page-title"><?php echo 'Hello '.$username.',';?></h4> </div>
                     <div class="col-lg-9 col-sm-8 col-md-8 col-xs-12"> 
                         <ol class="breadcrumb">
                             <li onclick=""><a href="#">Dashboard</a></li>
@@ -529,7 +529,7 @@
                             </h3> -->
                             <div class="row sales-report">
                                 <div class="col-md-6 col-sm-6 col-xs-6">
-                                    <h2>Nyumbani  <?php echo 2000+date('y'); ?></h2>
+                                    <h2>Qikao  <?php echo 2000+date('y'); ?></h2>
                                     <p>Blog Posts</p>
                                 </div>
                                 <div class="col-md-6 col-sm-6 col-xs-6 ">
