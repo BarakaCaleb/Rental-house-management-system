@@ -87,13 +87,13 @@ Feel free to use it as it will suit you. To receive a complete version of the so
 
 # Need further support?
 Reach out for a stable version or support via:
-Email: *paulnyaxx@gmail.com* or 
-Tel:   *+254706748162*
+Email: *calebbaraka79@gmail.com* or 
+Tel:   *+254795430038*
 
 # By me some coffee
 You can offer support via 
-1. M-Pesa:  **+254706748162** or 
-2. Paypal: **harrysp254@gmail.com**
+1. M-Pesa:  **+254795430038** or 
+2. Paypal: **calebbaraka79@gmail.com**
 
 
 I wish you all the best as you explore this limited app!
